@@ -15,8 +15,8 @@
 \begin{scope}[scale=1, yshift=-1cm]
 \draw[gray, fill]  (0, 1) -- (0.5, 0) -- (0, -1) -- (-0.5, 0) --cycle;
 \draw[brown, fill]  (0, 0) -- (0.5, 0) -- (0, -1) -- (-0.5, 0) --cycle;
-\draw[brown, fill, scale=.5] (0, 1) -- (0.5, 0) -- (0, -1) -- (-0.5, 0) --cycle;
-\draw[gray, fill, scale=.5] (0, 0) -- (0.5, 0) -- (0, -1) -- (-0.5, 0) --cycle;
+% \draw[brown, fill, scale=.5] (0, 0) -- (0.5, 0) -- (0, -1) -- (-0.5, 0) --cycle;
+% \draw[gray, fill, scale=.5] (0, 0) -- (0.5, 0) -- (0, -1) -- (-0.5, 0) --cycle;
 
 % \draw[brown, fill, scale=.5] (0, 1) -- (0.5, 0) -- (0, -1) -- (-0.5, 0) --cycle;
 \draw[yellow, fill, scale=.125] (0, 1) -- (0.5, 0) -- (0, -1) -- (-0.5, 0) --cycle;
